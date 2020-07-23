@@ -1,4 +1,3 @@
 red
 yellow 
-green
-black
+
